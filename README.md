@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Jumio/mobile-sdk-ios/blob/master/docs/images/jumio_feature_graphic.jpg)
 
 ![Version](https://img.shields.io/github/v/release/Jumio/Mobile-SDK-IOS?style=flat)
 [![API Doc](https://img.shields.io/github/v/release/Jumio/Mobile-SDK-IOS?label=API%20doc&color=green&style=flat)](https://jumio.github.io/mobile-sdk-ios/Jumio)
