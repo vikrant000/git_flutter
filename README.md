@@ -37,6 +37,16 @@
 -  Updated user liveness
 
 # Overview
+AI-powered identity verification, eKYC, and
+transaction monitoring
+
+In today’s digital economy, fraudsters and money
+launderers have no place. To avoid fraud and financial
+crime, internet firms must know and trust that their
+clients are who they say they are – and that they will
+remain trustworthy. 
+
+---
 
 ## Steps of using iPASS iOS Package
 
