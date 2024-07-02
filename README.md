@@ -211,7 +211,6 @@ Please refer to our [support policy](https://ipass-mena.com/contact/) for more i
 ## Licenses
 The software contains third-party open source software. For more information, please see [license](LICENSE).
 
-This software is based in part on the work of the Independent JPEG Group.
 
 ## Contact
 If you have any questions regarding our implementation guide please contact ipass-mena Customer Service. The ipass-mena online helpdesk contains a wealth of information regarding our service including demo videos, product descriptions, FAQs and other things that may help to get you started with ipass-mena.
