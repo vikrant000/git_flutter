@@ -1,15 +1,14 @@
 ![Logo](https://github.com/yazanalqasem/iPass2.0NativeiOS/blob/liveness_update/git_im.png)
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-green)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-orange)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-blue)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-yellow)
 
+[![License](https://img.shields.io/badge/License-Commercial-blue.svg)](LICENSE)
+![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-green)
+![Swift](https://img.shields.io/badge/Swift-3x,%204x,%205x-red.svg)
+[![iPass](https://img.shields.io/badge/iPass-blue)](https://ipass-mena.com)
+![platform](https://img.shields.io/badge/Platforms-ios-orange)
+![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20manager-compatible-orange)
+![pod](https://img.shields.io/badge/pod-v4.10.0-yellow)
 
 # Table of Contents
 - [Overview](#overview)
