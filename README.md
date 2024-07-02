@@ -207,7 +207,7 @@ You need to add the multi languages files from the xcode for requried languages 
 -----
 
 # Support
-Please refer to our [support policy]() for more information about Mobile SDK support.
+Please refer to our [support policy](https://ipass-mena.com/contact/) for more information about Mobile SDK support.
 
 
 ## Licenses
