@@ -3,9 +3,9 @@
 
 
 [![License](https://img.shields.io/badge/License-Commercial-blue.svg)](LICENSE)
+[![iPass](https://img.shields.io/badge/iPass-lightgreen)](https://ipass-mena.com)
 ![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-green)
 ![Swift](https://img.shields.io/badge/Swift-3x,%204x,%205x-red.svg)
-[![iPass](https://img.shields.io/badge/iPass-blue)](https://ipass-mena.com)
 ![platform](https://img.shields.io/badge/Platforms-ios-orange)
 ![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20manager-compatible-orange)
 ![pod](https://img.shields.io/badge/pod-v4.10.0-yellow)
