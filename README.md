@@ -53,6 +53,8 @@ Steps to add the package:
 2. Paste the Package URL
 3. Click on "Add Package" to include the package in your project.
 
+-----
+
 ### Import Package
 
 Import the package in your required view controller.
@@ -60,6 +62,7 @@ Import the package in your required view controller.
 ```ruby
 import iPass2_0NativeiOS
 ```
+-----
 
 # Permissions
 ### Configure Permissions in Info.plist
@@ -92,7 +95,7 @@ Add following items to above array item
 
 ### Add NFC Compatibility
 - Near Field Communication Tag Reading
-
+-----
 ### Initialize Database
 - To start the process user need to download the database using following code.
 - In this step progress object can be used to track the downloading percentage.
@@ -102,6 +105,8 @@ Add following items to above array item
                     print(progres, status, error)
                 })
 ```
+-----
+
 ### Get User Login Token
 - Pass valid email id and password to get user token
 ```ruby
@@ -112,6 +117,8 @@ iPassSDKManger.UserOnboardingProcess(email: emailStr, password: passwordStr) { s
 }
 ```
 - Once the user is logged in user token need to save because this will be used in document scanning process
+
+-----
   
 ### Get Supported Flows
 ```ruby
@@ -140,6 +147,7 @@ iPassSDKManger.startScanningProcess(userEmail: "sam@gmail.com", flowId: 10031, s
 - appToken will be the auth token provided by Admin
 - flowId will be the id selected by the user from above step.
 - After the scanning process, Response will be available in package delegate.
+-----
 
 ### Add Delegate to Get Response
  ```ruby
@@ -154,6 +162,7 @@ iPassSDKManger.startScanningProcess(userEmail: "sam@gmail.com", flowId: 10031, s
 - "result" object will return the required json response
 - "transactionId" object will return the unique transcation number for completed transaction
 - "error" object will return the error description
+-----
 
 ### SDK Properties
  ```ruby
@@ -166,7 +175,7 @@ configProperties.setDateFormat(format: "dd/mm/yyyy")
 - "needHologramDetection" property is used for Authenticity checks like detection of Electronic Device, Optically Variable Ink, Multiple Laser Images, Image Patterns.
 - By default hologram detection is enabled. you can disabled passing the false in hologram detection property.
 - "setDateFormat" property is used to change the format of dates displayed in the results. The mask examples are "dd/mm/yyyy", "mm/dd/yyyy", "dd-mm-yyyy", "mm-dd-yyyy", "dd/mm/yy".
-
+-----
 
 ### Add Multiple Languages (Optional)
 Applications supports following langauges
