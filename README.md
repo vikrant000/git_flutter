@@ -12,7 +12,7 @@
 
 # Table of Contents
 - [Overview](#overview)
-- [Get Started](#steps-to-use-ipass-ios-package)
+- [Get Started](#steps-to-using-ipass-ios-package)
   - [Integrate Package into the App](#integrate-package-into-the-app)
   - [Import Package](#import-package)
   - [General Requirements](#import-package)
