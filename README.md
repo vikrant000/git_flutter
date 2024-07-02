@@ -27,6 +27,7 @@
   - [Add Delegate to Get Response](#add-delegate-to-get-response)
   - [SDK Properties](#sdk-properties)
   - [Language Localization](#add-multiple-languages-optional)
+- [Support](#support)
 - [Licenses](#licenses)
 - [Contact](#contact)
 - [Copyright](#copyright)
