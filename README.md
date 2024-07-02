@@ -1,7 +1,7 @@
 ![Logo](https://github.com/yazanalqasem/iPass2.0NativeiOS/blob/liveness_update/git_im.png)
 
 
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-green)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![API Doc](https://img.shields.io/badge/API%20doc-v4.10.0-orange)
@@ -16,7 +16,6 @@
 - [Get Started](#steps-to-use-ipass-ios-package)
   - [Integrate Package into the App](#integrate-package-into-the-app)
   - [Import Package](#import-package)
-- [Basics](#integrate-package-into-the-app)
   - [General Requirements](#import-package)
   - [Permissions](#permissions)
   - [Add NFC Compatibility](#add-nfc-compatibility)
