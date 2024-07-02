@@ -192,7 +192,7 @@ Please refer to our [support policy]() for more information about Mobile SDK sup
 
 
 ## Licenses
-The software contains third-party open source software. For more information, please see [licenses](licenses).
+The software contains third-party open source software. For more information, please see [licenses](license).
 
 This software is based in part on the work of the Independent JPEG Group.
 
